@@ -1,16 +1,7 @@
 # flutter_kakao_profile_img_app
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+카카오톡 프로필 화면을 구성한 프로젝트입니다.
+Firebase와 연동하여 구글로그인, firestore에 회원정보 저장, storage에 이미지 저장을 하였습니다.
+Getx를 활용하여 view단에서 화면이 바뀌는 것을 처리하였습니다.
+image_picker를 사용하여 사용자의 핸드폰 갤러리에서 사진 파일을 가져오고,
+가져온 파일을 바로 image_cropper을 사용하여 세부조정 할 수 있게 만들었습니다.
