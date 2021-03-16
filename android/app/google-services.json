@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453393557606",
+    "project_id": "kakaoprofileimg",
+    "storage_bucket": "kakaoprofileimg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453393557606:android:1a8dbe44155330b3eba5a7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_kakao_profile_img_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453393557606-28dmulh6fuamjpdf85hv3h3aoq91etmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_kakao_profile_img_app",
+            "certificate_hash": "2edd75ec040e03b16a5cb0360f06f7094117a24c"
+          }
+        },
+        {
+          "client_id": "453393557606-0h97gdoiibdqkbuv39ctotsaj1r4j50g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlEgBJn4qCfFxxFh8aRDaE1e8BhWjwoxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453393557606-0h97gdoiibdqkbuv39ctotsaj1r4j50g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
